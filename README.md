@@ -1,6 +1,6 @@
 #Lebenslauf
 ## Walter Maier
 * **Persönliche Daten**
-	* *Schuhgröße: * 
-	* ***Augenfarbe: ***
+	*  *Schuhgröße: * 
+	*  ***Augenfarbe: ***
 'www.youtube.com'
